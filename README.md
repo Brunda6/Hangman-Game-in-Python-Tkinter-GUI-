@@ -16,9 +16,10 @@ A simple Hangman game built using Python and Tkinter for the GUI. Players guess 
 ## Installation
 
 1. Clone the repository: https://github.com/Brunda6/Hangman-Game-in-Python-Tkinter-GUI-/tree/main
-2. Install the required Python packages (Tkinter is built-in with Python standard libraries)
+2. Install the required Python packages (Tkinter is built-in with Python standard libraries) <br>
    `pip install random`
-3. Run the script: `python hangman.py`
+3. Run the script:<br>
+`python hangman.py`
 
 ## Contributing
 
