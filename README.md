@@ -1,4 +1,4 @@
-![HANGMAN 05-10-2024 22_05_56](https://github.com/user-attachments/assets/a84873b3-41c7-4b75-bbf1-759603428645)# Hangman Game in Python (Tkinter GUI)
+# Hangman Game in Python (Tkinter GUI)
 
 A simple Hangman game built using Python and Tkinter for the GUI. Players guess a randomly selected fruit name by clicking letters on an on-screen keyboard. Each incorrect guess draws a part of the hangman. The game ends with either victory or defeat once all lives are used.
 
